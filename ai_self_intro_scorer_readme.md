@@ -17,13 +17,6 @@ This tool is ideal for:
 
 ---
 
-## 🚀 Live Demo (Optional)
-Add your Streamlit Cloud / HuggingFace / Render link here:
-
-```
-https://your-deployment-link
-```
-
 ---
 
 ## 🧠 Features
@@ -88,7 +81,6 @@ http://localhost:8501
 ├── app.py
 ├── requirements.txt
 ├── README.md
-└── assets/ (optional)
 ```
 
 ---
@@ -143,11 +135,16 @@ Overall Score: 80 / 100
 
 ---
 
-## ✅ Screenshot
-(Add a screenshot of your UI here)
+## ✅ Screenshots
+
 
 ```
-![App Screenshot](assets/screenshot.png)
+<img width="1184" height="726" alt="image" src="https://github.com/user-attachments/assets/15f842f6-3540-458e-a70d-2b9e193a6075" />
+<img width="958" height="443" alt="image" src="https://github.com/user-attachments/assets/2c25537f-61a1-4863-a020-77db93fbeca5" />
+<img width="1218" height="809" alt="image" src="https://github.com/user-attachments/assets/5307d63c-063a-468d-9a8e-94a826dd934f" />
+<img width="935" height="827" alt="image" src="https://github.com/user-attachments/assets/65846e44-b3b4-4335-937e-5c4896ef67af" />
+<img width="1021" height="772" alt="image" src="https://github.com/user-attachments/assets/75b02b25-30e7-41c0-9296-5b5815746905" />
+
 ```
 
 ---
@@ -158,19 +155,9 @@ Overall Score: 80 / 100
 - Automatic speech-to-text
 - PDF report generation
 - User history dashboard
+- Deployment
 
 ---
 
-## 🤝 Contributing
-Pull requests are welcome!
 
----
-
-## 🧑‍💻 Author
-Your Name
-
----
-
-## 📜 License
-MIT License
 
