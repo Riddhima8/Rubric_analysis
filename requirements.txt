@@ -1,0 +1,9 @@
+streamlit
+pandas
+sentence-transformers
+scikit-learn
+numpy
+openpyxl
+vaderSentiment
+language-tool-python
+plotly
